@@ -14,7 +14,6 @@ def homepage():
     <p>It is currently {time}.</p>
 
     <img src="http://loremflickr.com/600/400">
-
     """.format(time=the_time)
 
 if __name__ == '__main__':
